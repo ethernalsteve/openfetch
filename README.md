@@ -4,7 +4,7 @@ Openfetch - A utility for determining computer information written in lua for th
 ## Upload Openfetch
 
 ```
-wget -f https://raw.githubusercontent.com/ethernalsteve/openfetch/openfetch.lua /bin/openfetch.lua
+wget -f https://raw.githubusercontent.com/ethernalsteve/openfetch/main/openfetch.lua /bin/openfetch.lua
 ```
 or
 ```
